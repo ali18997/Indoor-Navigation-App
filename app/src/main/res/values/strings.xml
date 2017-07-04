@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Wifi Scan</string>
+
+    <string-array name="destination_list_bottom_floor">
+        <item> Enterance</item>
+        <item> Reception</item>
+        <item> DIP Lab</item>
+        <item> DSP Lab</item>
+        <item> Faculty Conference Room</item>
+        <item> PA to HOD</item>
+        <item> ERP</item>
+        <item> Networks Lab</item>
+        <item> Electronics Lab</item>
+        <item> FYP Room</item>
+        <item> Faculty Offices Bottom Floor Right</item>
+        <item> Faculty Offices Bottom Floor Left</item>
+        <item> Top Floor </item>
+    </string-array>
+
+    <string-array name="destination_list_top_floor">
+        <item> Faculty Cabins</item>
+        <item> ECR</item>
+        <item> CRC-11</item>
+        <item> CRC-13</item>
+        <item> CRC-14</item>
+        <item> CRC-15</item>
+        <item> CRC-16</item>
+        <item> Admin Office</item>
+        <item> Computation (CTC) Lab </item>
+        <item> Faculty Offices </item>
+        <item> Bottom Floor </item>
+    </string-array>
+</resources>
